@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034325290917",
+    "firebase_url": "https://weighman-51c4c.firebaseio.com",
+    "project_id": "weighman-51c4c",
+    "storage_bucket": "weighman-51c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034325290917:android:d9c365fb5f8948d83cc24c",
+        "android_client_info": {
+          "package_name": "com.weighman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034325290917-ka8madoqaaemsv1k6ttia6vdsoi48ce8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weighman",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1034325290917-4sgll57tnaf6t8d63h1fqjvcvol4q25l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4DTCCwXFR4vFjfQ02ZgZw4ppSBK8tnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034325290917-4sgll57tnaf6t8d63h1fqjvcvol4q25l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
